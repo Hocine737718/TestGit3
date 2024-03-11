@@ -1,6 +1,6 @@
 article{
     width:32%;
-    border: 3px double blue;
+    border: 3px dotted red;
     text-align: center;
     float: left;
 }
